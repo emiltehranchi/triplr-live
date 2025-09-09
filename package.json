@@ -4,6 +4,6 @@
   "private": true,
   "engines": { "node": "22.x" },
   "dependencies": {
-    "gtfs-realtime-bindings": "^3.0.0"
+    "gtfs-realtime-bindings": "^2.0.1"
   }
 }
