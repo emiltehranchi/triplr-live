@@ -1,8 +1,0 @@
-{
-  "name": "triplr-live",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "gtfs-realtime-bindings": "^3.0.0"
-  }
-}
