@@ -2,8 +2,5 @@
   "name": "triplr-live",
   "version": "1.0.0",
   "private": true,
-  "engines": { "node": "22.x" },
-  "dependencies": {
-    "protobufjs": "^7.2.4"
-  }
+  "engines": { "node": "22.x" }
 }
