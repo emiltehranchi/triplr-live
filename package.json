@@ -4,6 +4,6 @@
   "private": true,
   "engines": { "node": "22.x" },
   "dependencies": {
-    "gtfs-realtime-bindings": "^2.0.1"
+    "protobufjs": "^7.2.4"
   }
 }
